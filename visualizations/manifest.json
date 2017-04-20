@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "Lucytheanimefan": {
+    "title": "Lucy",
+    "website": "https://github.com/Lucytheanimefan",
+    "logo": "https://avatars0.githubusercontent.com/u/14322911?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/Lucytheanimefan",
           "versions": {
             "1.0.0": {
               "simple": {
